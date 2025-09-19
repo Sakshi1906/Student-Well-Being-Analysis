@@ -1,4 +1,4 @@
-📊 Student Count Analysis (MySQL)
+📊 Student Well-Being Analysis Dashboard
 
 📌 Overview
 
@@ -10,15 +10,13 @@ MySQL Workbench
 
 Tableau
 
-📊 Key Steps
+📊 Key Insights
 
-Imported raw student count dataset into MySQL
+Top Departments / Categories: Identified which departments or categories have the highest and lowest student counts.
 
-Cleaned data and added calculated columns
+Trends Over Time: Observed growth or decline patterns in student enrollment across semesters or years.
 
-Wrote SQL queries to analyze trends and aggregate student counts
-
-Generated insights for reporting
+Distribution & Aggregates: Analyzed the proportion of students per category and calculated average, minimum, and maximum counts to highlight imbalances and support planning.
 
 🚀 Files
 
