@@ -22,7 +22,7 @@ Distribution & Aggregates: Analyzed the proportion of students per category and 
 
 student.sql → All queries
 
-depression+student+dataset → Raw dataset
+depression+student+dataset.csv → Raw dataset
 
 student_cleaned.csv → Final cleaned dataset
 
